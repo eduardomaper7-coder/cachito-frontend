@@ -45,7 +45,7 @@ export default function Home() {
   {/* CONTENIDO DEL HERO */}
   <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
     <h2 className="text-white font-bold text-5xl md:text-7xl leading-tight drop-shadow-lg">
-      Restaurante <br /> Órdago <br /> Getafe
+      Gastrotaberna <br /> Cachito's
     </h2>
 
     <a
@@ -264,7 +264,7 @@ export default function Home() {
   </p>
 
   <p className="text-sm opacity-60 mt-6">
-  Restaurante el Órdago Getafe
+  Restaurante Órdago de Getafe
 </p>
 
 </footer>

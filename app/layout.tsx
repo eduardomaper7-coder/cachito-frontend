@@ -8,8 +8,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Restaurante Órdago Getafe",
-  description: "Reserva tu mesa en Órdago Getafe",
+  title: "Restaurante El Quillo",
+  description: "Reserva tu mesa en Restaurante Órdago Getafe",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
